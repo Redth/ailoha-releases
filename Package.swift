@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AilohaAgent",
-            url: "https://github.com/Redth/ailoha-releases/releases/download/v0.1.12/AilohaAgent.xcframework.zip",
-            checksum: "a6232b5beb07ed0b497223bd63cf2f237c93f0c766db1f370c0634633932995b"
+            url: "https://github.com/Redth/ailoha-releases/releases/download/v0.1.13/AilohaAgent.xcframework.zip",
+            checksum: "7c61cc0705afd160910c962d56afa576550b60de464a4d79722514d622ec710f"
         )
     ]
 )

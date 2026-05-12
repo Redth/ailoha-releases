@@ -15,7 +15,7 @@ Package manifests can depend on the released binary package like this:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/Redth/ailoha-releases", from: "0.1.12")
+    .package(url: "https://github.com/Redth/ailoha-releases", from: "0.1.13")
 ],
 targets: [
     .target(
@@ -39,10 +39,10 @@ import AilohaAgent
 #endif
 ```
 
-Version `0.1.12` resolves to:
+Version `0.1.13` resolves to:
 
 ```text
-https://github.com/Redth/ailoha-releases/releases/download/v0.1.12/AilohaAgent.xcframework.zip
+https://github.com/Redth/ailoha-releases/releases/download/v0.1.13/AilohaAgent.xcframework.zip
 ```
 
 The binary package is licensed under the Ailoha Binary Distribution License.
