@@ -1,0 +1,99 @@
+Ailoha Binary Distribution License
+Version 1.0
+
+Copyright (c) 2026 Ailoha contributors.
+All rights reserved.
+
+This is a custom source-available license. It is not an open source license.
+It is intended for official Ailoha package consumption in applications while
+reserving all other source and redistribution rights.
+
+1. Definitions
+
+"Licensor" means the copyright holders for Ailoha.
+
+"Software" means the Ailoha source code, object code, packages, binaries,
+documentation, samples, and related materials made available by Licensor.
+
+"Official Package" means an unmodified package, archive, release asset, source
+package, or binary artifact published by Licensor through the Ailoha repository,
+GitHub Releases, GitHub Packages, NuGet, Maven, npm, pub.dev, Swift Package
+Manager, or another Licensor-controlled distribution channel.
+
+"Binary Form" means compiled object code, executable code, linked libraries,
+transpiled, bundled, minified, or otherwise transformed app output, app bundles,
+release archives, and other non-source forms of the Software.
+
+"Source Form" means the human-readable source code form of the Software.
+
+"Application" means an app, service, internal tool, or product that depends on
+or incorporates an Official Package and whose primary purpose is not to provide,
+host, distribute, sell, or replace Ailoha or an Ailoha package.
+
+2. Official Package Use Grant
+
+Subject to this license, Licensor grants you a worldwide, no-cost,
+non-exclusive, non-transferable license to use, reproduce, and distribute
+Official Packages in Binary Form, including as part of your Applications, for
+personal, internal, evaluation, commercial, and production use.
+
+3. Build-Time Source Use
+
+When an official package manager distributes an Official Package in Source Form,
+such as Swift Package Manager or source-based JavaScript/Dart package managers,
+you may download, copy, and compile the unmodified Source Form solely as needed
+to create Binary Form for use under Section 2. This permission does not grant
+any right to distribute Source Form or modified versions of the Software.
+
+4. Source Evaluation
+
+You may view and internally evaluate the Source Form for integration, debugging,
+security review, and feedback. No other source-code rights are granted.
+
+5. Restrictions
+
+Except as expressly permitted by this license or by a separate written agreement
+with Licensor, you may not:
+
+- distribute, sublicense, sell, rent, lease, or otherwise provide the Software in
+  Source Form;
+- modify the Software, create derivative works of the Software, or distribute
+  modified versions of the Software;
+- publish, mirror, repackage, or operate a package, registry, feed, download
+  service, hosted service, or API that provides the Software as a standalone
+  product or package;
+- remove, obscure, or alter copyright, license, trademark, or attribution
+  notices in the Software;
+- use Ailoha names, logos, or trademarks except to identify compatibility with
+  the Software; or
+- reverse engineer, decompile, or disassemble Binary Form except to the extent
+  applicable law prohibits this restriction.
+
+6. Contributions and Feedback
+
+If you intentionally submit code, documentation, feedback, suggestions, issues,
+or other materials to Licensor for inclusion in or improvement of the Software,
+you grant Licensor a perpetual, irrevocable, worldwide, royalty-free,
+sublicensable license to use, reproduce, modify, distribute, and otherwise
+exploit those materials in any form.
+
+7. Third-Party Materials
+
+Third-party dependencies and materials included with or used by the Software are
+licensed by their respective owners under their own license terms. Those terms
+continue to apply to the third-party materials.
+
+8. Termination
+
+This license terminates automatically if you violate its terms. Upon
+termination, you must stop using and distributing the Software and destroy all
+copies in your possession or control, except for copies already incorporated
+into Applications distributed before termination.
+
+9. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, TITLE, AND NON-INFRINGEMENT. LICENSOR WILL NOT BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR RELATED TO THE SOFTWARE OR
+THIS LICENSE, WHETHER IN CONTRACT, TORT, OR OTHERWISE.

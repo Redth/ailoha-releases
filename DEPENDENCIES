@@ -1,0 +1,2 @@
+AilohaAgent.xcframework does not bundle third-party binary libraries.
+It links against Apple platform frameworks supplied by the target operating system.
